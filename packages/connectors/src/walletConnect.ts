@@ -18,8 +18,10 @@ import { Connector } from './base'
  * - MetaMask (metamask.io)
  * - Rainbow (rainbow.me)
  * - Trust Wallet (trustwallet.com)
+ * - BitKeep (bitkeep.io)
  */
-const switchChainAllowedRegex = /(imtoken|metamask|rainbow|trust wallet)/i
+const switchChainAllowedRegex =
+  /(imtoken|metamask|rainbow|trust wallet|bitkeep)/i
 
 type WalletConnectOptions = ConstructorParameters<
   typeof WalletConnectProvider

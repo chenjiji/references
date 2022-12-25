@@ -2,6 +2,7 @@
 injected/**
 coinbaseWallet/**
 metaMask/**
+bitKeep/**
 mock/**
 walletConnect/**
 ledger/**

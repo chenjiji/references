@@ -47,6 +47,10 @@
       "types": "./dist/metaMask.d.ts",
       "default": "./dist/metaMask.js"
     },
+    "./bitKeep": {
+      "types": "./dist/bitKeep.d.ts",
+      "default": "./dist/bitKeep.js"
+    },
     "./mock": {
       "types": "./dist/mock/index.d.ts",
       "default": "./dist/mock/index.js"

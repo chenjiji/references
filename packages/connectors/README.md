@@ -51,6 +51,7 @@ const client = createClient({
 - [`InjectedConnector`](/packages/connectors/src/injected.ts)
 - [`LedgerConnector`](/packages/connectors/src/ledger.ts)
 - [`MetaMaskConnector`](/packages/connectors/src/metaMask.ts)
+- [`BitKeepConnector`](/packages/connectors/src/bitKeep.ts)
 - [`MockConnector`](/packages/connectors/src/mock.ts)
 - [`WalletConnectConnector`](/packages/connectors/src/walletConnect.ts)
 
